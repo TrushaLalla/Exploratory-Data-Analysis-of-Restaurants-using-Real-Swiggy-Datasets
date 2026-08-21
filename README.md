@@ -1,5 +1,7 @@
 # Exploratory-Data-Analysis-of-Restaurants-using-Real-Swiggy-Datasets.
-![Uploading swiggy_picture.PNG…]()
+<p align="center">
+ <img src="images/swiggy_picture.png" width="300" alt="Centered Image">
+</p>
 
 ## Objectives:
 In this project, I analyzed Swiggy Restaurant's datasets collected from every city in India.As Swiggy is one of the leading services of food delivery,
