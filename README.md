@@ -1,5 +1,5 @@
 # Exploratory-Data-Analysis-of-Restaurants-using-Real-Swiggy-Datasets.
-![Swiggy Analysis Screenshot](./Images/swiggy_picture.png)
+![Swiggy Analysis Screenshot](./images/swiggy_picture.png)
 ## Objectives:
 In this project, I analyzed Swiggy Restaurant's datasets collected from every city in India.As Swiggy is one of the leading services of food delivery,
 with more than 100k Restaurants listed all over India. This is an SQL-based exploratory analysis of ~148,500 restaurants listed on Swiggy across 600+ Indian cities. 
