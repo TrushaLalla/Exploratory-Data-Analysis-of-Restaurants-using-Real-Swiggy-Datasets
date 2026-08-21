@@ -1,5 +1,5 @@
 # Exploratory-Data-Analysis-of-Restaurants-using-Real-Swiggy-Datasets.
-![Alt text](https://i.gadgets360cdn.com/large/swiggy_blog_full_1556536946123.jpg)/path/to/image.png)
+![Alt text](https://i.gadgets360cdn.com/large/swiggy_blog_full_1556536946123.jpg)
 
 ## Objectives:
 In this project, I analyzed Swiggy Restaurant's datasets collected from every city in India.As Swiggy is one of the leading services of food delivery,
