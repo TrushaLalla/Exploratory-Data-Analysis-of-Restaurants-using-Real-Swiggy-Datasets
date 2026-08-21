@@ -27,11 +27,11 @@ I analyzed this dataset on Kaggle and drew conclusions to some interesting quest
 6-Kollam City.<br>
 7-Number of cities where Swiggy is having their restaurants listed is 774 cities.<br>
 8-Least Expensive: North-Goa (Avg_cost= 440.0) Most Expensive: Khan Market,Dehli (Avg_cost=624.0)<br>
-9-<u>1st place comes:</u> Kwality Walls and Frozen Dessert Ice Cream Shop in Dehli and Ludhiana have a rating of 4.9 and a rating_count of 500+. Sharing first place is Sunshine Shake in Rohtak with also a 4.9 rating and a rating_count of 500+.<br>
-<u>2nd place</u> is Mithai in Kolkata with a rating of 4.8 and rating_count of 500+.<br> Sharing 2nd place is Natural Ice Cream also in Kolkata with also a rating of 4.8 and rating_count of 500+.<br>
-10- <u>1st place:</u> Urban Chonka with a rating of 4.8 and avg cost of Rupees 1.<br>
-<u>2nd place:</u> Sri Ram Bhojanalay with a rating of 4.7 and avg cost of Rupees 5.<br>
-<u>3rd place:</u> The Punjabi Kitchen with a rating od 4.7 and avg cost of Rupees 5.<br>
+9-<ins>1st place comes:</ins> Kwality Walls and Frozen Dessert Ice Cream Shop in Dehli and Ludhiana have a rating of 4.9 and a rating_count of 500+. Sharing first place is Sunshine Shake in Rohtak with also a 4.9 rating and a rating_count of 500+.<br>
+<ins>2nd place</ins> is Mithai in Kolkata with a rating of 4.8 and rating_count of 500+.<br> Sharing 2nd place is Natural Ice Cream also in Kolkata with also a rating of 4.8 and rating_count of 500+.<br>
+10- <ins>1st place:</ins> Urban Chonka with a rating of 4.8 and avg cost of Rupees 1.<br>
+<ins>2nd place:</ins> Sri Ram Bhojanalay with a rating of 4.7 and avg cost of Rupees 5.<br>
+<ins>3rd place:</ins> The Punjabi Kitchen with a rating od 4.7 and avg cost of Rupees 5.<br>
 
 Dataset URL: https://www.kaggle.com/datasets/ashishjangra27/swiggy-restaurants-dataset
 
