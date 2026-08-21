@@ -1,6 +1,6 @@
 # Exploratory-Data-Analysis-of-Restaurants-using-Real-Swiggy-Datasets.
 <p align="center">
- <img src="images/swiggy_picture.png" width="300" alt="Centered Image">
+ <img src="swiggy-sql-analysis/images/swiggy_picture.png" width="300" alt="Centered Image">
 </p>
 
 ## Objectives:
