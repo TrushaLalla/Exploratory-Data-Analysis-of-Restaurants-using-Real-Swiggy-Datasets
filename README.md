@@ -15,7 +15,7 @@ I analyzed this dataset on Kaggle and drew conclusions to some interesting quest
 6-Which city is having the least expensive restaurant in terms of cost?<br>
 7-Number of cities (including subregions) where Swiggy is having their restaurants listed?<br>
 8-What is the least expensive and most expensive cities on average?<br>
-9-Which restaurants have the most ratings (most reviewed and most trusted?)<br>
+9-Which restaurants have the most ratings (most reviewed and most trusted)?<br>
 10-Top 3 restaurants with high ratings but most affordable?<br>
 
 ## Answers/Insights:
